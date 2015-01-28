@@ -1,0 +1,9 @@
+[package]
+
+name = "codediff"
+version = "0.0.1"
+authors = [ "Eitan Mosenkis <eitan@mosenkis.net>" ]
+
+[[bin]]
+
+name = "codediff"
